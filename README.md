@@ -25,5 +25,5 @@ It allows users to answer multiple-choice questions, check answers, and track th
 
 ---
 
-Made with ❤️ by [Vishakha]
+
 
