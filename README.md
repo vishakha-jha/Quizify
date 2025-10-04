@@ -20,8 +20,7 @@ It allows users to answer multiple-choice questions, check answers, and track th
 - **JavaScript ** → Core quiz logic, DOM manipulation, and scoring  
 
 ## 📸 Screenshot
-![Quizify Screenshot](<img width="1882" height="969" alt="image" src="https://github.com/user-attachments/assets/05c5c0b3-d6fb-4efd-bdd7-60b60ba706d0" />
-)
+![Quizify Screenshot](Screenshot 2025-10-04 173951)
 
 ---
 
